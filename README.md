@@ -1,7 +1,7 @@
 ![SQL Project](https://img.shields.io/badge/SQL-Project-blue)
 
 
-# 📊 Pizza Sales SQL Project
+# Pizza Sales SQL Project
 
 
 
