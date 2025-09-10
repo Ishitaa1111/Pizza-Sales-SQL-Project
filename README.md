@@ -2,7 +2,7 @@
 ```markdown
 # 📊 Pizza Sales SQL Project
 
----
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)  
@@ -14,12 +14,12 @@
 7. [Key Query Outputs & Insights](#key-query-outputs--insights)  
 8. [Conclusion & Future Work](#conclusion--future-work)  
 
----
+
 
 ## Project Overview
 This project analyzes pizza sales data for a fictional **Pizza Hut** using SQL. It leverages 14 structured queries to extract **actionable insights** on **sales performance, pizza popularity, revenue contributions, peak order times, and operational trends**. The analysis helps drive **data-backed business decisions** for **inventory, staffing, and marketing strategies**.
 
----
+
 
 ## Business Objective
 The business objectives addressed through this analysis:  
@@ -30,7 +30,6 @@ The business objectives addressed through this analysis:
 - **Evaluate cumulative revenue trends** to track growth and forecast future performance.  
 - **Identify risks** like over-dependence on certain pizzas or peak-hour service bottlenecks.  
 
----
 
 ## Dataset Description
 The dataset includes:  
