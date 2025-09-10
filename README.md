@@ -1,13 +1,21 @@
 ![SQL Project](https://img.shields.io/badge/SQL-Project-blue)
-## Table of Contents
-1. [Project Overview](#1-project-overview)
-2. [Business Objective](#2-business-objective)
-3. [Dataset Description](#3-dataset-description)
-4. [Tools & Skills Used](#4-tools--skills-used)
-5. [Approach / Methodology](#5-approach-methodology)
-6. [Key Insights / Results](#6-key-insights-results)
-7. [Key Query Outputs & Insights](#7-key-query-outputs-insights)
-8. [Conclusion & Future Work](#8-conclusion-future-work)
+able of Contents
+
+Project Overview
+
+Business Objective
+
+Dataset Description
+
+Tools & Skills Used
+
+Approach / Methodology
+
+Key Insights / Results
+
+Key Query Outputs & Insights
+
+Conclusion & Future Work
 
 
 # Pizza Sales - SQL Project
