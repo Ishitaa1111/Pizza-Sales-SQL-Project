@@ -2,13 +2,15 @@
 
 # 📊 Pizza Sales SQL Project
 
-##  1. Project Overview
-
-This project analyzes pizza sales data for a fictional Pizza Hut using SQL. It leverages 14 structured queries to extract actionable insights on **sales performance, pizza popularity, revenue contributions, peak order times, and operational trends**. The analysis helps drive **data-backed business decisions** for inventory, staffing, and marketing strategies.
 
 
+## **1. Project Overview**
 
-##  2. Business Objective
+This project analyzes pizza sales data for a fictional **Pizza Hut** using SQL. It leverages 14 structured queries to extract **actionable insights** on **sales performance, pizza popularity, revenue contributions, peak order times, and operational trends**. The analysis helps drive **data-backed business decisions** for **inventory, staffing, and marketing strategies**.
+
+
+
+## **2. Business Objective**
 
 The business objectives addressed through this analysis:
 
@@ -20,7 +22,7 @@ The business objectives addressed through this analysis:
 
 
 
-##  3. Dataset Description
+## **3. Dataset Description**
 
 The dataset includes:
 
@@ -29,11 +31,11 @@ The dataset includes:
 * **Pizzas Table**: `pizza_id`, `pizza_type_id`, `size`, `price` → Pizza attributes.
 * **Pizza\_types Table**: `pizza_type_id`, `name`, `category` → Pizza name and category info.
 
-This dataset enables **multi-dimensional analysis** of revenue, quantity, customer behavior, and operational patterns.
+This dataset enables **multi-dimensional analysis** of **revenue, quantity, customer behavior, and operational patterns**.
 
 
 
-##  4. Tools & Skills Used
+## **4. Tools & Skills Used**
 
 * **SQL**: Joins, aggregation, window functions (CUME\_DIST, RANK), group by, subqueries
 * **MySQL Workbench**: Query execution and result visualization
@@ -43,10 +45,11 @@ This dataset enables **multi-dimensional analysis** of revenue, quantity, custom
 
 
 
-##  5. Approach / Methodology
+## **5. Approach / Methodology**
 
 1. **Data Exploration**: Examined table structures, relationships, and key metrics.
 2. **Query Development**: 14 structured SQL queries covering:
+
    * Total orders & revenue
    * Top-selling pizzas & categories
    * Pizza size distribution
@@ -60,86 +63,80 @@ This dataset enables **multi-dimensional analysis** of revenue, quantity, custom
 
 
 
-🔹 6. Key Insights / Results
+## **6. Key Insights / Results**
 
-Total Orders & Revenue
+**1. Total Orders & Revenue**
 
-Total orders: 10,000+ → Shows high volume of business.
+* **Total orders:** 10,000+ → Shows high volume of business.
+* **Total revenue:** ₹5,00,000+ → Indicates financial health and scale.
 
-Total revenue: ₹5,00,000+ → Indicates financial health and scale.
+**2. Top-Selling Pizzas**
 
-Top-Selling Pizzas
+* **Top 5 pizzas by quantity:** Pepperoni, Margherita, Veggie Supreme, BBQ Chicken, Cheese Burst → contribute \~45% of total sales, highlighting menu dependency.
+* **Highest-priced pizza:** Likely premium category → identifies potential for upselling promotions.
 
-Top 5 pizzas by quantity: Pepperoni, Margherita, Veggie Supreme, BBQ Chicken, Cheese Burst → contribute ~45% of total sales, highlighting menu dependency.
+**3. Pizza Size Preferences**
 
-Highest-priced pizza: Likely premium category → identifies potential for upselling promotions.
+* **Most common size ordered:** Medium → accounts for \~50–60% of orders, guiding inventory and portion planning.
 
-Pizza Size Preferences
+**4. Pizza Category Trends**
 
-Most common size ordered: Medium → accounts for ~50–60% of orders, guiding inventory and portion planning.
+* **Category-wise quantity ordered:** Veggies dominate at \~40%, followed by Non-Veg (\~35%), Specialty (\~25%) → informs menu focus and marketing campaigns.
 
-Pizza Category Trends
+**5. Peak Order Hours**
 
-Category-wise quantity ordered: Veggies dominate at ~40%, followed by Non-Veg (~35%), Specialty (~25%) → informs menu focus and marketing campaigns.
+* **Hourly analysis:** 7–9 PM contributes 50% of daily orders → signals staffing and kitchen preparation focus.
 
-Peak Order Hours
+**6. Daily Average Orders**
 
-Hourly analysis shows 7–9 PM contributes 50% of daily orders, signaling staffing and kitchen preparation focus.
+* **Average pizzas per day:** \~150–200 pizzas → baseline KPI for forecasting and inventory planning.
 
-Daily Average Orders
+**7. Revenue Contribution by Pizza Type**
 
-Average pizzas per day: ~150–200 pizzas → baseline KPI for forecasting and inventory planning.
+* **Top 3 pizza types by revenue** contribute \~55% of total revenue, revealing over-dependence risk.
+* **Percentage contribution per category:** Veggies (\~40%), Non-Veg (\~35%), Specialty (\~25%).
 
-Revenue Contribution by Pizza Type
+**8. Cumulative Revenue Trends**
 
-Top 3 pizza types by revenue contribute ~55% of total revenue, revealing over-dependence risk.
+* Consistent growth over time → useful for trend forecasting and operational scaling.
 
-Percentage contribution per category: Veggies (~40%), Non-Veg (~35%), Specialty (~25%).
+**9. Top Pizzas per Category**
 
-Cumulative Revenue Trends
+* Ranking top 3 pizzas per category allows:
 
-Consistent growth over time → useful for trend forecasting and operational scaling.
-
-Top Pizzas per Category
-
-Ranking top 3 pizzas per category allows:
-
-Targeted marketing
-
-Inventory prioritization
-
-Menu optimization
+  * Targeted marketing
+  * Inventory prioritization
+  * Menu optimization
 
 
 
-##  7. Key Query Outputs & Insights
+## **7. Key Query Outputs & Insights**
 
-- **Total Orders:** 10,000+ → Indicates high business volume.
-- **Total Revenue:** ₹5,00,000+ → Strong revenue generation.
-- **Top 5 Pizzas by Quantity:** Pepperoni, Margherita, Veggie Supreme, BBQ Chicken, Cheese Burst → Contribute ~45% of total sales.
-- **Most Common Pizza Size:** Medium → Accounts for ~50–60% of orders.
-- **Category-wise Quantity Distribution:** Veggies ~40%, Non-Veg ~35%, Specialty ~25%.
-- **Orders by Hour:** 7–9 PM contributes ~50% of daily orders → Critical for staffing optimization.
-- **Top 3 Pizza Types by Revenue per Category:** Highlights high-revenue items for menu focus and marketing.
+* **Total Orders:** 10,000+ → Indicates high business volume.
+* **Total Revenue:** ₹5,00,000+ → Strong revenue generation.
+* **Top 5 Pizzas by Quantity:** Pepperoni, Margherita, Veggie Supreme, BBQ Chicken, Cheese Burst → Contribute \~45% of total sales.
+* **Most Common Pizza Size:** Medium → Accounts for \~50–60% of orders.
+* **Category-wise Quantity Distribution:** Veggies \~40%, Non-Veg \~35%, Specialty \~25%.
+* **Orders by Hour:** 7–9 PM contributes \~50% of daily orders → Critical for staffing optimization.
+* **Top 3 Pizza Types by Revenue per Category:** Highlights high-revenue items for menu focus and marketing.
 
-All 14 queries were executed to analyze pizza sales trends, revenue contributions, and operational patterns. Key insights are summarized above
+> *All 14 queries were executed to analyze pizza sales trends, revenue contributions, and operational patterns. Key insights are summarized above.*
 
 
-##  8. Conclusion & Future Work
 
-**Conclusion**:
+## **8. Conclusion & Future Work**
+
+**Conclusion:**
 
 * The analysis provides **data-backed insights** into pizza sales, revenue trends, and operational patterns.
 * Identified **key revenue-generating pizzas**, peak order hours, and category preferences.
 * Highlighted **risks** like over-reliance on a few pizzas or peak-hour bottlenecks.
 
-**Future Work**:
+**Future Work:**
 
 * Predictive modeling to forecast daily/weekly revenue.
 * Customer segmentation for targeted promotions.
 * Real-time dashboards for monitoring sales performance.
 * Dynamic menu recommendations based on revenue contribution and popularity trends.
-
-
 
 
