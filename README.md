@@ -1,5 +1,5 @@
 
-```markdown
+
 # 📊 Pizza Sales SQL Project
 
 
@@ -41,7 +41,7 @@ The dataset includes:
 
 This dataset enables **multi-dimensional analysis** of **revenue, quantity, customer behavior, and operational patterns**.  
 
----
+
 
 ## Tools & Skills Used
 - **SQL**: Joins, aggregation, window functions (CUME_DIST, RANK), group by, subqueries  
@@ -50,7 +50,7 @@ This dataset enables **multi-dimensional analysis** of **revenue, quantity, cust
 - **Business Analysis**: Operational insights, risk assessment, data-driven recommendations  
 - **Reporting & Documentation**: Clear presentation of key metrics and actionable insights  
 
----
+
 
 ## Approach / Methodology
 1. **Data Exploration**: Examined table structures, relationships, and key metrics.  
@@ -66,7 +66,7 @@ This dataset enables **multi-dimensional analysis** of **revenue, quantity, cust
 4. **Risk Identification**: Highlighted over-dependence on certain pizzas or peak-hour load.  
 5. **Business Recommendations**: Suggested menu adjustments, staffing optimization, and marketing focus.  
 
----
+
 
 ## Key Insights / Results
 **1. Total Orders & Revenue**  
@@ -102,7 +102,6 @@ This dataset enables **multi-dimensional analysis** of **revenue, quantity, cust
   - Inventory prioritization  
   - Menu optimization  
 
----
 
 ## Key Query Outputs & Insights
 - **Total Orders:** 10,000+ → Indicates high business volume.  
@@ -115,7 +114,7 @@ This dataset enables **multi-dimensional analysis** of **revenue, quantity, cust
 
 > *All 14 queries were executed to analyze pizza sales trends, revenue contributions, and operational patterns. Key insights are summarized above.*  
 
----
+
 
 ## Conclusion & Future Work
 **Conclusion:**  
@@ -130,5 +129,5 @@ This dataset enables **multi-dimensional analysis** of **revenue, quantity, cust
 - Customer segmentation for targeted promotions.  
 - Real-time dashboards for monitoring sales performance.  
 - Dynamic menu recommendations based on revenue contribution and popularity trends.
-```
+
 
