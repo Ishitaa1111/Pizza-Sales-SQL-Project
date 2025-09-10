@@ -6,7 +6,7 @@
 
 This project analyzes pizza sales data for a fictional Pizza Hut using SQL. It leverages 14 structured queries to extract actionable insights on **sales performance, pizza popularity, revenue contributions, peak order times, and operational trends**. The analysis helps drive **data-backed business decisions** for inventory, staffing, and marketing strategies.
 
----
+
 
 ##  2. Business Objective
 
@@ -18,7 +18,7 @@ The business objectives addressed through this analysis:
 * **Evaluate cumulative revenue trends** to track growth and forecast future performance.
 * **Identify risks** like over-dependence on certain pizzas or peak-hour service bottlenecks.
 
----
+
 
 ##  3. Dataset Description
 
@@ -31,7 +31,7 @@ The dataset includes:
 
 This dataset enables **multi-dimensional analysis** of revenue, quantity, customer behavior, and operational patterns.
 
----
+
 
 ##  4. Tools & Skills Used
 
@@ -41,7 +41,7 @@ This dataset enables **multi-dimensional analysis** of revenue, quantity, custom
 * **Business Analysis**: Operational insights, risk assessment, data-driven recommendations
 * **Reporting & Documentation**: Clear presentation of key metrics and actionable insights
 
----
+
 
 ##  5. Approach / Methodology
 
@@ -58,7 +58,7 @@ This dataset enables **multi-dimensional analysis** of revenue, quantity, custom
 4. **Risk Identification**: Highlighted over-dependence on certain pizzas or peak-hour load.
 5. **Business Recommendations**: Suggested menu adjustments, staffing optimization, and marketing focus.
 
----
+
 
 ##  6. Key Insights / Results
 
@@ -95,7 +95,7 @@ This dataset enables **multi-dimensional analysis** of revenue, quantity, custom
   * Inventory prioritization
   * Menu optimization
 
----
+
 
 ##  7. Dashboard / Output Screenshots
 
@@ -106,7 +106,7 @@ This dataset enables **multi-dimensional analysis** of revenue, quantity, custom
   * **Order distribution heatmaps by hour**
   * **Cumulative revenue charts**
 
----
+
 
 ##  8. Conclusion & Future Work
 
@@ -123,6 +123,6 @@ This dataset enables **multi-dimensional analysis** of revenue, quantity, custom
 * Real-time dashboards for monitoring sales performance.
 * Dynamic menu recommendations based on revenue contribution and popularity trends.
 
----
+
 
 
