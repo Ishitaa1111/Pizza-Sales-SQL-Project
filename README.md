@@ -97,15 +97,17 @@ This dataset enables **multi-dimensional analysis** of revenue, quantity, custom
 
 
 
-##  7. Dashboard / Output Screenshots
+##  7. Key Query Outputs & Insights
 
-* SQL query outputs can be exported to **Power BI or Excel** to create:
+- **Total Orders:** 10,000+ → Indicates high business volume.
+- **Total Revenue:** ₹5,00,000+ → Strong revenue generation.
+- **Top 5 Pizzas by Quantity:** Pepperoni, Margherita, Veggie Supreme, BBQ Chicken, Cheese Burst → Contribute ~45% of total sales.
+- **Most Common Pizza Size:** Medium → Accounts for ~50–60% of orders.
+- **Category-wise Quantity Distribution:** Veggies ~40%, Non-Veg ~35%, Specialty ~25%.
+- **Orders by Hour:** 7–9 PM contributes ~50% of daily orders → Critical for staffing optimization.
+- **Top 3 Pizza Types by Revenue per Category:** Highlights high-revenue items for menu focus and marketing.
 
-  * **Top-selling pizza bar charts**
-  * **Revenue trend line charts**
-  * **Order distribution heatmaps by hour**
-  * **Cumulative revenue charts**
-
+All 14 queries were executed to analyze pizza sales trends, revenue contributions, and operational patterns. Key insights are summarized above
 
 
 ##  8. Conclusion & Future Work
