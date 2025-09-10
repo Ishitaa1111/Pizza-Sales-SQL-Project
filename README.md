@@ -63,37 +63,37 @@ This dataset enables **multi-dimensional analysis** of revenue, quantity, custom
 ##  6. Key Insights / Results
 
 1. **Total Orders & Revenue**
-* Total orders: `10,000+` → Shows high volume of business.
-* Total revenue: `₹5,00,000+` → Indicates financial health and scale.
+Total orders: `10,000+` → Shows high volume of business.
+Total revenue: `₹5,00,000+` → Indicates financial health and scale.
 
 2. **Top-Selling Pizzas**
-* Top 5 pizzas by quantity: Pepperoni, Margherita, Veggie Supreme, BBQ Chicken, Cheese Burst → contribute **\~45% of total sales**, highlighting menu dependency.
-* Highest-priced pizza: Likely premium category → identifies potential for upselling promotions.
+Top 5 pizzas by quantity: Pepperoni, Margherita, Veggie Supreme, BBQ Chicken, Cheese Burst → contribute **\~45% of total sales**, highlighting menu dependency.
+Highest-priced pizza: Likely premium category → identifies potential for upselling promotions.
 
 3. **Pizza Size Preferences**
-* Most common size ordered: Medium → accounts for **\~50–60% of orders**, guiding inventory and portion planning.
+Most common size ordered: Medium → accounts for **\~50–60% of orders**, guiding inventory and portion planning.
 
 4. **Pizza Category Trends**
-* Category-wise quantity ordered: Veggies dominate at **\~40%**, followed by Non-Veg (\~35%), Specialty (\~25%) → informs menu focus and marketing campaigns.
+Category-wise quantity ordered: Veggies dominate at **\~40%**, followed by Non-Veg (\~35%), Specialty (\~25%) → informs menu focus and marketing campaigns.
 
 5. **Peak Order Hours**
-* Hourly analysis shows **7–9 PM contributes 50% of daily orders**, signaling staffing and kitchen preparation focus.
+Hourly analysis shows **7–9 PM contributes 50% of daily orders**, signaling staffing and kitchen preparation focus.
 
 6. **Daily Average Orders**
-* Average pizzas per day: \~**150–200 pizzas** → baseline KPI for forecasting and inventory planning.
+Average pizzas per day: \~**150–200 pizzas** → baseline KPI for forecasting and inventory planning.
 
 7. **Revenue Contribution by Pizza Type**
-* Top 3 pizza types by revenue contribute **\~55% of total revenue**, revealing over-dependence risk.
-* Percentage contribution per category: Veggies (\~40%), Non-Veg (\~35%), Specialty (\~25%).
+Top 3 pizza types by revenue contribute **\~55% of total revenue**, revealing over-dependence risk.
+Percentage contribution per category: Veggies (\~40%), Non-Veg (\~35%), Specialty (\~25%).
 
 8. **Cumulative Revenue Trends**
-* Consistent growth over time → useful for **trend forecasting** and **operational scaling**.
+Consistent growth over time → useful for **trend forecasting** and **operational scaling**.
 
 9. **Top Pizzas per Category**
-* Ranking top 3 pizzas per category allows:
-  * Targeted marketing
-  * Inventory prioritization
-  * Menu optimization
+Ranking top 3 pizzas per category allows:
+Targeted marketing
+Inventory prioritization
+Menu optimization
 
 
 
